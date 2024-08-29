@@ -27,3 +27,5 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### The backend Path you can find in src/store/paths
